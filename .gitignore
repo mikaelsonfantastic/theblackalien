@@ -1,6 +1,2 @@
 node_modules
 .env
-/server/db
-/uploads/reportes
-/uploads/usuarios
-/uploads/estadisticas
